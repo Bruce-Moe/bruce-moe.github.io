@@ -1,13 +1,13 @@
 body {
   padding: 20px;
-  background-image: url("C:/Users/bruce/Documents/html.sample/src/imgs/abstract-background-17.jpg");
+  background-image: url("../imgs/abstract-background-17.jpg");
 }
 
 h1 {
   font-size: 50px; 
   text-decoration: underline;
   font-family: "Crimson Text", serif;
-  background-image: url("C:/Users/bruce/Documents/html.sample/src/imgs/background 4.jpg");
+  background-image: url("../imgs/background\ 4.jpg");
   margin-top: -30px; 
   padding: 50px; 
   margin-left: -100px;
